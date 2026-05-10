@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+header{
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+}
+
+.btn-primary{
+    border-radius: 30px;
+    padding: 10px 30px;
+}
